@@ -106,6 +106,7 @@ gap: 1.5em;
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color:rgb(183, 255, 230);
 }
 
 
